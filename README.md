@@ -120,26 +120,6 @@ src/
 └── index.css          # Global styles
 ```
 
-## 🎯 Use Cases
-
-### Portfolio Project
-- Demonstrates modern React development skills
-- Shows AI integration capabilities
-- Professional UI/UX design
-- TypeScript implementation
-- Responsive design
-
-### Client Presentations
-- Live demo capability
-- Configurable for different AI providers
-- Professional customer service focus
-- Easy to customize and extend
-
-### Learning Tool
-- Modern React patterns
-- AI API integration
-- TypeScript best practices
-- Tailwind CSS usage
 
 ## 🔒 Security Considerations
 
@@ -168,9 +148,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Tailwind CSS](https://tailwindcss.com/) for styling
 - [Lucide React](https://lucide.dev/) for icons
 
-## 📞 Support
 
-For questions or support, please open an issue on GitHub or contact the maintainer.
 
 ---
 
